@@ -1,3 +1,3 @@
 # try-version-control
 
-version 1 
+version 2
